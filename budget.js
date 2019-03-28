@@ -6,7 +6,7 @@
     }
 
     return {
-        publicTest: function(b){
+        publicTest: function (b){
             return add(b);
         }
     }
