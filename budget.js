@@ -12,7 +12,7 @@
     }
 })();
 
-var UIController = (function(){
+var UIController = ( function(){
 
 })();
 
