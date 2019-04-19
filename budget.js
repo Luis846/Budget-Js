@@ -5,7 +5,7 @@ var x = 23;
         return x + a; 
     }
 
-    return {
+    return{
         publicTest: function (b){
             return add(b);
         }
